@@ -1,6 +1,8 @@
 # VEYRA
 **Know your gap. Build your future.**
 
+AI-powered career readiness and skill-gap analysis platform for students.
+
 ## 1. Problem
 Students accumulate academic and professional information across documents, certificates, resumes, platforms, and personal records. They may have a target career but often do not understand:
 * What specific skills that career requires
@@ -66,14 +68,14 @@ The MVP focuses purely on the deterministic Gap Engine, transparent scoring, and
 * AI-driven personalized learning resource recommendations
 
 ## 12. Installation
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ## 13. Running Locally
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 ## 14. Hackathon Context
 This project was built for the Smart Student Career Profile problem statement, prioritizing the core requirement of analyzing a student's profile against career requirements to generate a readiness score and skill gap analysis.
